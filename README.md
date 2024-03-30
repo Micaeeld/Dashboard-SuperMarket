@@ -25,7 +25,7 @@ Este projeto consiste em um dashboard interativo criado para analisar e visualiz
 ### Categoria/Vendas
 ![categoria](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/bfd03647-049d-4d39-948e-19699633a76f)
 
-# Dados Demográficos
+### Dados Demográficos
 ##![demografics](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/7a658595-c691-4b1a-90e8-72461e85e65a)
 
 ### Descontos/lucro
