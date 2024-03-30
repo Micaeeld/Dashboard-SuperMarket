@@ -25,14 +25,14 @@ Este projeto consiste em um dashboard interativo criado para analisar e visualiz
 ### Categoria/Vendas
 ![categoria](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/bfd03647-049d-4d39-948e-19699633a76f)
 
-### Dados Demográficos
-![Demografia](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/29a7b473-f486-470a-aa61-33374ef657db)
+# Dados Demográficos
+##![demografics](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/7a658595-c691-4b1a-90e8-72461e85e65a)
 
 ### Descontos/lucro
-![Descontos-Lucro](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/4ec85704-22c6-4b4d-8128-87cc9a54aa0d)
+![desconto e lucro](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/95cce53d-cf59-41f5-b3a2-786ef44296b1)
 
 ### Análise de Envios
-![Envios](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/2c23870a-23d9-462f-9b9d-057f347292e1)
+![Screenshot_2](https://github.com/Micaeeld/Dashboard-SuperMarket/assets/95485950/e28ad5d1-4871-458e-90ca-6effb4fef976)
 
 ## Tecnologias Utilizadas
 Power BI: Utilizado para a criação do dashboard interativo.
